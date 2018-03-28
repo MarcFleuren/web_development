@@ -150,4 +150,4 @@ console.log(makeRecktangles("REKT", 1, 1));
 console.log(makeRecktangles("REKT", 2, 2));
 console.log(makeRecktangles("REKT", 3, 2));
 console.log(makeRecktangles("REKT", 4, 2));
-console.log(makeRecktangles("CALIFORNIA", 2, 2));
+console.log(makeRecktangles("BIGMANSHAQ", 2, 2));
